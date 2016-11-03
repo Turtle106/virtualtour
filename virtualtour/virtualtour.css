@@ -1,3 +1,22 @@
 body {
-    background-color: red
+ color: white;
+ background: url('https://upload.wikimedia.org/wikipedia/commons/6/6d/Salamanca_2008.jpg');
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header {
+    background: url('http://www.tourspain.org/salamanca/fotos/salamanca.jpg');
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  opacity: 0.9;
+  height: 20%;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
